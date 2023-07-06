@@ -1,4 +1,4 @@
-# <IBM Data Science Professional Certificate>
+# IBM Data Science Professional Certificate
 
 This repository contains Jupiter notebooks and code exercises I have worked with from the IBM Data Science Professional Certificate.
 

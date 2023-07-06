@@ -18,13 +18,13 @@ Each folder corresponds to a different course within the program and covers vari
 ## Course Content
 The IBM Data Science Professional Certificate is a comprehensive program consisting of several courses, including:
 
-### Course 1: <What is Data Science?>
+### Course 1: What is Data Science?
 - Description: Data Science has gained the label of being the sexiest profession of the 21st century due to its ability to uncover insights and trends in data, enabling data-driven conclusions and predictions. This introductory course provides a comprehensive understanding of Data Science, including concepts like Machine Learning and Neural Networks, and showcases real-world data science applications in business.
-- Folder: WhatisDataScience?/`
+- Folder: `WhatIsDataScience?/`
 
-### Course 2: <Course Name 2>
-- Description: Brief description of the course content.
-- Folder: `course2/`
+### Course 2: Tools for Data Science
+- Description: This course focuses on equipping you with the essential tools utilized by Data Science professionals. You will gain proficiency in using popular tools such as Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. Through hands-on experience in a cloud-based environment, you'll learn to work with these tools, including executing code in Python, R, or Scala. The course culminates with a final project where you'll demonstrate your skills by creating a Jupyter Notebook, utilizing Markdown, and sharing your work with peers.
+- Folder: `ToolsForDataScience/`
 
 ### Course 3: <Course Name 3>
 - Description: Brief description of the course content.

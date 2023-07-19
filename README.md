@@ -16,6 +16,8 @@ This repository contains Jupiter notebooks and code exercises I have worked with
 
 This repository contains a collection of Jupiter notebooks and code exercises I worked on during the IBM Data Science Professional Certificate.
 Each folder corresponds to a different course within the program and covers various topics and concepts related to data science and its applications.
+Each course focuses on specific aspects of data science, such as data analysis, data visualization, machine learning, and more.
+
 
 ## Course Content
 
@@ -58,28 +60,16 @@ This repository contains the code and resources for the Data Science Methodology
 -   Description: Brief description of the course content.
 -   Folder: `course5/`
 
-Each course focuses on specific aspects of data science, such as data analysis, data visualization, machine learning, and more.
+
 
 ## Getting Started
 
 To get started with this project, you can follow these steps:
 
 1.  Clone the repository: `git clone https://github.com/<username>/<repository>.git`
-2.  Install the required dependencies (if any).
-3.  Open the Jupyter notebooks (.ipynb files) using Jupyter Notebook or JupyterLab.
-4.  Explore the notebooks to learn about different data science concepts and techniques.
+2.  Open the Jupyter notebooks (.ipynb files) using Jupyter Notebook or JupyterLab.
+3.  Explore the notebooks to learn about different data science concepts and techniques.
 
-## Dependencies
-
-List any dependencies required to run the Jupyter notebooks or code in this repository. For example:
-
--   Python 3.x
--   Pandas
--   NumPy
--   Matplotlib
--   scikit-learn
-
-You can also include the command to install dependencies using pip or conda.
 
 ## Usage
 
@@ -103,6 +93,26 @@ If you'd like to contribute to this repository, please follow these guidelines:
 
 ## License
 
-Include information about the license under which you're sharing the code. For example, if you want to use an open-source license like the MIT License, you can add the following:
+This project is licensed under the [MIT License](en.wikipedia.org/wiki/MIT_License). You can freely use, modify, and distribute this code.
 
-This project is licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute this code.
+MIT License
+
+Copyright (c) [2023] [Angela Giraldi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

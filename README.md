@@ -62,42 +62,58 @@ This repository contains the code and resources for the Python for Beginners cou
 
 ### Course 5: Python Project for Data Science
 
--   Description: Brief description of the course content.
--   Folder: `5_PythonProjectDataScience/`
+-   ##### Description:
+This project-based course will help you demonstrate your proficiency in Python for data science. You will work with a real-world dataset and scenario to extract data, web scrape, visualize data, and create a dashboard. This project will showcase your skills in Python and using libraries such as Pandas and Beautiful Soup.
+
+-   ##### Folder: `5_PythonProjectDataScience/`
 
 
 ### Course 6: Databases and SQL for Data Science with Python
 
--   Description: Brief description of the course content.
--   Folder: `6_DatabaseSQLDataScience/`
+-   ##### Description:
+This course will teach you the fundamentals of SQL, a powerful language used for communicating with and extracting data from databases. You will learn how to write foundational SQL statements, filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses, differentiate between DML & DDL, CREATE, ALTER, DROP and load tables, use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions. You will also learn how to build sub-queries and query data from multiple tables, access databases as a data scientist using Jupyter notebooks with SQL and Python, and work with advanced concepts like Stored Procedures, Views, ACID Transactions, Inner & Outer JOINs.
+
+ Through hands-on labs and projects, you will practice building SQL queries, work with real databases on the cloud, and use real data science tools. In the final project, you will analyze multiple real-world datasets to demonstrate your skills.
+-   ##### Folder: `6_DatabaseSQLDataScience/`
 
 ### Course 7: Data Analysis with Python
 
--   Description: Brief description of the course content.
--   Folder: `7_DataAnalysisPython/`
+-   ##### Description:
+This course will teach you how to analyze data with Python, a powerful language for data science. You will learn how to collect and import data, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will also learn how to predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.
+
+-   ##### Folder: `7_DataAnalysisPython/`
 
 ### Course 8: Data Visualization with Python
 
--   Description: Brief description of the course content.
--   Folder: `8_DataVisualizationPython/`
+-   ##### Description:
+This course will teach you how to effectively visualize data with Python, a powerful language for data science. You will learn to create various types of basic and advanced graphs and charts, as well as interactive dashboards. You will also learn how to use data visualization to tell a compelling story and convey insights.
+
+-   ##### Folder: `8_DataVisualizationPython/`
 
 ### Course 9: Machine Learning with Python
 
--   Description: Brief description of the course content.
--   Folder: `9_MachineLearningPython/`
+-   ##### Description:
+This course will teach you the fundamentals of machine learning with Python, a powerful language for data science. You will learn about supervised and unsupervised learning, linear and non-linear regression, classification techniques, and clustering. You will also learn how to use Python libraries like SciPy and scikit-learn to build and evaluate machine learning models.
+-  ##### Folder: `9_MachineLearningPython/`
 
 
 ### Course 10: Applied Data Science Capstone
 
--   Description: Brief description of the course content.
--   Folder: `10_AppliedDataScienceCapstone/`
+-   ##### Description:
+This course is the final course in the IBM Data Science Professional Certificate and the Applied Data Science with Python Specialization. In this course, you will apply the skills you have learned in the previous courses to a real-world data science project.
+
+  You will assume the role of a data scientist working for a startup that intends to compete with SpaceX. Your task will be to predict if the first stage of the SpaceX Falcon 9 rocket will land successfully. You will use the data science methodology to collect, wrangle, explore, visualize, model, evaluate, and report your results.
+
+  This course is a capstone project, so there will not be much new learning. Instead, you will focus on hands-on work to demonstrate and apply what you have learned in previous courses.
+
+-   ##### Folder: `10_AppliedDataScienceCapstone/`
 
 
 ## Getting Started
 
 To get started with this project, you can follow these steps:
 
-1.  Clone the repository: `git clone https://github.com/<username>/<repository>.git`
+1.  Clone the repository: `git clone https://github.com/Angelagiraldi/IBM_DataScienceProfessional_Certificate.git`
 2.  Open the Jupyter notebooks (.ipynb files) using Jupyter Notebook or JupyterLab.
 3.  Explore the notebooks to learn about different data science concepts and techniques.
 

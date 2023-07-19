@@ -7,7 +7,6 @@ This repository contains Jupiter notebooks and code exercises I have worked with
 -   [Description](#description)
 -   [Course Content](#course-content)
 -   [Getting Started](#getting-started)
--   [Dependencies](#dependencies)
 -   [Usage](#usage)
 -   [Contributing](#contributing)
 -   [License](#license)
@@ -50,16 +49,48 @@ This repository contains the code and resources for the Data Science Methodology
 
 -  ##### Folder: `3_DataScienceMethodology/`
 
-### Course 4: &lt;Course Name 4>
+### Course 4: Python for Data Science, AI & Development
+
+-  ##### Description:
+This repository contains the code and resources for the Python for Beginners course. The course teaches you the basics of Python, a popular programming language used in data science, data analytics, software development, and other fields. This course is suitable for anyone who wants to learn Python, regardless of their prior programming experience. If you are interested in data science, data analytics, software development, or other fields where Python is used, then this course is for you. By the end of this course, you will be able to:
+  * Write basic Python programs
+  * Use Python data types and structures
+  * Control flow and logic
+  * Use Python libraries such as Pandas, Numpy, and Beautiful Soup
+  * Perform tasks such as data collection and web scraping with APIs
+-  ##### Folder: `4_PythonDataScienceAiDevelopment/`
+
+### Course 5: Python Project for Data Science
 
 -   Description: Brief description of the course content.
--   Folder: `course4/`
+-   Folder: `5_PythonProjectDataScience/`
 
-### Course 5: &lt;Course Name 5>
+
+### Course 6: Databases and SQL for Data Science with Python
 
 -   Description: Brief description of the course content.
--   Folder: `course5/`
+-   Folder: `6_DatabaseSQLDataScience/`
 
+### Course 7: Data Analysis with Python
+
+-   Description: Brief description of the course content.
+-   Folder: `7_DataAnalysisPython/`
+
+### Course 8: Data Visualization with Python
+
+-   Description: Brief description of the course content.
+-   Folder: `8_DataVisualizationPython/`
+
+### Course 9: Machine Learning with Python
+
+-   Description: Brief description of the course content.
+-   Folder: `9_MachineLearningPython/`
+
+
+### Course 10: Applied Data Science Capstone
+
+-   Description: Brief description of the course content.
+-   Folder: `10_AppliedDataScienceCapstone/`
 
 
 ## Getting Started
